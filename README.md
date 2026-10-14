@@ -1,4 +1,4 @@
-### Hi there, 👋
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm Austine,
 
@@ -23,9 +23,9 @@ Outside work, I dive deep into the Linux ecosystem. You'll usually find me optim
 
 > **[linktui](https://github.com/stinmark/linktui)** <a href="https://github.com/stinmark/linktui/stargazers"><img src="https://img.shields.io/github/stars/stinmark/linktui?style=social" alt="linktui Stars" /></a>  
   Terminal User Interface (TUI) tool designed for live network interface tracking, status inspection, and management.
-
+<!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stinmark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
+-->
 <a href="https://linkedin.com/in/yourusername">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
