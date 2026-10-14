@@ -1,11 +1,9 @@
 ### Hi there, 👋
 
-I'm Austine, I specialize in architecting cloud platforms, automating infrastructure, and diving deep into Linux networking. When I'm not untangling Kubernetes clusters or writing Terraform modules, I build desktop tools and terminal UI applications to make developer workflows smoother.
+I'm Austine.
+By day, I architect resilient cloud infrastructure, design self-healing Kubernetes environments, and automate continuous integration pipelines using Terraform, AWS, and GCP. My primary focus is building robust internal platform engines and optimizing system performance to make deployments smooth and reliable.
 
- 🏗️ **Platform Specialist:** Obsessed with turn-key developer environments and self-healing infrastructure.
-🐧 **Linux Enthusiast:** I believe everything in Linux is either a file, a socket, or something waiting to be automated with Bash or Go.
-⚡ **Fun Fact:** I wrote a GNOME widget so I could obsessively monitor my system temps while my builds compile.
-☕ **Fuel:** Powered by strong coffee, clean terminal prompts, and zero failing CI pipelines.
+By night, I dive deep into Linux networking, write custom utilities in Go and Python, and create open-source desktop tooling. When I'm not untangling complex networking interfaces or automating terminal workflows, you'll usually find me tweaking desktop monitoring widgets or optimizing my CLI tools over a fresh cup of coffee.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=go&logoColor=white" alt="Go" />
@@ -23,7 +21,6 @@ I'm Austine, I specialize in architecting cloud platforms, automating infrastruc
 * **[linktui](https://github.com/yourusername/linktui)** — Terminal User Interface (TUI) tool designed for live network interface tracking, status inspection, and management.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
 
 <a href="https://linkedin.com/in/yourusername">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=white" alt="LinkedIn" />
