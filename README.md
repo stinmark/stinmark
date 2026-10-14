@@ -1,9 +1,10 @@
 ### Hi there, 👋
 
 I'm Austine,
-Currently I  architect resilient cloud infrastructure, design self-healing Kubernetes environments, and automate continuous integration pipelines using Terraform, AWS, and GCP. 
 
-Outside work I dive deep into Linux ecosystem. You'll usually find me optimizing my cli tools , ricing my desktop or watching my fav psychological anime fresh coffee.
+Currently, I build robust backend systems, architect resilient cloud infrastructure, design self-healing Kubernetes environments, and automate continuous integration pipelines using Go, Python, Terraform, AWS, and GCP. 
+
+Outside work, I dive deep into the Linux ecosystem. You'll usually find me optimizing my CLI tools, ricing my desktop, or watching my favorite psychological anime with a fresh cup of coffee.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=go&logoColor=white" alt="Go" />
