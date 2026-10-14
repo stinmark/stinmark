@@ -3,7 +3,7 @@
 I'm Austine.
 By day, I architect resilient cloud infrastructure, design self-healing Kubernetes environments, and automate continuous integration pipelines using Terraform, AWS, and GCP. My primary focus is building robust internal platform engines and optimizing system performance to make deployments smooth and reliable.
 
-By night, I dive deep into Linux networking, write custom utilities in Go and Python, and create open-source desktop tooling. When I'm not untangling complex networking interfaces or automating terminal workflows, you'll usually find me tweaking desktop monitoring widgets or optimizing my CLI tools over a fresh cup of coffee.
+By night, I dive deep into Linux ecosystem, write custom utilities in Go and Python, and create open-source desktop tooling. When I'm not untangling complex networking interfaces or automating terminal workflows, you'll usually find me tweaking desktop monitoring widgets or optimizing my CLI tools over a fresh cup of coffee.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=go&logoColor=white" alt="Go" />
@@ -17,10 +17,13 @@ By night, I dive deep into Linux networking, write custom utilities in Go and Py
   <img src="https://img.shields.io/badge/GCP-4285F4?style=square&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-* **[Vitals](https://github.com/yourusername/vitals)** — GNOME Shell extension for real-time monitoring of system resources (CPU, RAM, network traffic, temperatures, and voltages).
-* **[linktui](https://github.com/yourusername/linktui)** — Terminal User Interface (TUI) tool designed for live network interface tracking, status inspection, and management.
+> **[Vitals Widget](https://github.com/stinmark/vitals-widget)** <a href="https://github.com/stinmark/vitals-widget/stargazers"><img src="https://img.shields.io/github/stars/stinmark/vitals-widget?style=social" alt="Vitals Stars" /></a>  
+  GNOME Shell extension for real-time monitoring of system resources (CPU, RAM, network traffic, temperatures, and voltages).
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+> **[linktui](https://github.com/stinmark/linktui)** <a href="https://github.com/stinmark/linktui/stargazers"><img src="https://img.shields.io/github/stars/stinmark/linktui?style=social" alt="linktui Stars" /></a>  
+  Terminal User Interface (TUI) tool designed for live network interface tracking, status inspection, and management.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stinmark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 <a href="https://linkedin.com/in/yourusername">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=white" alt="LinkedIn" />
