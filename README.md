@@ -26,12 +26,14 @@ Outside work, I dive deep into the Linux ecosystem. You'll usually find me optim
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stinmark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 -->
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/austinemark">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:hello.stinmark@gmailcom">
   <img src="https://img.shields.io/badge/Email-D14836?style=square&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<!--
 <a href="https://twitter.com/yourusername">
   <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=square&logo=x&logoColor=white" alt="Twitter" />
 </a>
+-->
