@@ -19,10 +19,10 @@ Outside work, I dive deep into the Linux ecosystem. You'll usually find me optim
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-> **[Vitals Widget](https://github.com/stinmark/vitals-widget)** <a href="https://github.com/stinmark/vitals-widget/stargazers"><img src="https://img.shields.io/github/stars/stinmark/vitals-widget?style=social" alt="Vitals Stars" /></a>  
+> <a href="https://github.com/stinmark/vitals-widget/stargazers"><img src="https://img.shields.io/github/stars/stinmark/vitals-widget?style=social" alt="Vitals Stars" /></a> **[Vitals Widget](https://github.com/stinmark/vitals-widget)**
   GNOME Shell extension for real-time monitoring of system resources (CPU, RAM, and temperatures).
 
-> **[linktui](https://github.com/stinmark/linktui)** <a href="https://github.com/stinmark/linktui/stargazers"><img src="https://img.shields.io/github/stars/stinmark/linktui?style=social" alt="linktui Stars" /></a>  
+> <a href="https://github.com/stinmark/linktui/stargazers"><img src="https://img.shields.io/github/stars/stinmark/linktui?style=social" alt="linktui Stars" /></a> **[linktui](https://github.com/stinmark/linktui)**  
   A linux Terminal User Interface (TUI) tool designed for network management (wifi, bluettoth and wireguard vpn).
 <!--
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stinmark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
